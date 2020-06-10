@@ -22,9 +22,5 @@ $(document).ready(function(){
     let result = transpigLatin(inputSentence);
 
     $("p#output").text(result);
-        //return newStr;
-    //if (inputSentence[i] = a; inputSentence[i = e; )
-        //.push("way")
-    //return 
   });
 });
