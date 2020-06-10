@@ -1,12 +1,21 @@
-# _Doc readme_
+# _Pig Latin_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Takes input and creates a new sentence with pig latin._
 
-#### By _Ian Gregg & (Co author)_
+#### By _Ian Gregg & Emma Hellman_
+[Pig-Latin-](https://github.com/oldgregg89/Pig-Latin)
+
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{Takes in user input and does the following: 
+1. For words beggining with a vowel add "way" to the end
+2. For words beggining with a consonant, move all of the consecutive 
+consenants to the end and add "ay".
+3. If the first consonants include "qu" move "u" along with the "q".
+4. For words beggining with a y treat "y" as a consonant. 
+
+}_
 
 ## Setup/Installation Requirements
 
@@ -15,7 +24,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * Create a GitHub account
 * Clone this repo to yuor desktop and run npm install to install all dependences.
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+__
 
 ## Known Bugs
 
@@ -23,9 +32,9 @@ _No known bugs_
 
 ## Support and contact details
 
-_Contact Ian Gregg: iangregg188@gmail.com
+_Contact Ian Gregg: <iangregg188@gmail.com>
 or
-(co author)_
+Emma Hellman <ehh801@icloud.com>_
 
 ## Technologies Used
 
@@ -33,7 +42,7 @@ _The Technologies used in the making of this software was Chrome browser, Visual
 
 ### License
 
-Copyright (c) 2016 **_Ian Gregg & (Co author)_**
+Copyright (c) 2020 **_Ian Gregg & Emma Hellman_**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
