@@ -11,3 +11,7 @@ body {
 .jumbotron {
   background-color: blueviolet;
 }
+
+label {
+  color: coral;
+}
