@@ -8,14 +8,12 @@
 
 ## Description
 
-_{Takes in user input and does the following: 
+_Takes in user input and does the following: 
 1. For words beggining with a vowel add "way" to the end
 2. For words beggining with a consonant, move all of the consecutive 
 consenants to the end and add "ay".
 3. If the first consonants include "qu" move "u" along with the "q".
-4. For words beggining with a y treat "y" as a consonant. 
-
-}_
+4. For words beggining with a y treat "y" as a consonant._
 
 ## Setup/Installation Requirements
 
