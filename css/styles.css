@@ -15,3 +15,9 @@ body {
 label {
   color: coral;
 }
+
+#output {
+  color: crimson;
+  border: 5px solid red;
+  text-align: center;
+}
